@@ -166,7 +166,7 @@
         <div class="project">
             <h3>Project 2</h3>
             <p>Description of project 2.</p>
-            <a href="project2-details.jsp">Learn More</a>
+            <a href="project2-detais.jsp">Learn More</a>
         </div>
         <!-- Add more projects here -->
     </section>
