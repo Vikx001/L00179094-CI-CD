@@ -163,17 +163,7 @@
             <p>Description of project 1.</p>
             <a href="project1-details.jsp">Learn More</a>
         </div>
-        <div class="project">
-            <h3>Project 2</h3>
-            <p>Description of project 2.</p>
-            <a href="project2-detais.jsp">Learn More</a>
-        </div>
 
-        <div class="project">
-            <h3>Project 3</h3>
-            <p>Description of project 3.</p>
-            <a href="project2-detais.jsp">Learn More</a>
-        </div>
         <!-- Add more projects here -->
     </section>
 
