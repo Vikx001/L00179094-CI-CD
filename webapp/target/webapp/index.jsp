@@ -163,9 +163,15 @@
             <p>Description of project 1.</p>
             <a href="project1-details.jsp">Learn More</a>
             <div class="project">
-            <h3>Project 1</h3>
+            <h3>Project 2</h3>
             <p>Description of project 1.</p>
             <a href="project1-details.jsp">Learn More</a>
+            <div class="project">
+                <h3>Project 3
+                
+                </h3>
+                <p>Description of project 1.</p>
+                <a href="project1-details.jsp">Learn More</a>
 
         <!-- Add more projects here -->
     </section>
