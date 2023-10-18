@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Chandan Gowda H S - DevOps Engineer</title>
+    <title>Chandan Gowda H S - DevOps Engineer.</title>
     <style>
         /* CSS styles go here */
         body, h1, h2, ul, p {
