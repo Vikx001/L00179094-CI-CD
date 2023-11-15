@@ -168,11 +168,6 @@
             <p>Description of project2.</p>
             <a href="project1-details.jsp">Learn More</a>
         </div>
-        <div class="project">
-            <h3>Project 3</h3>
-            <p>Description of project3.</p>
-            <a href="project1-details.jsp">Learn More</a>
-        </div>
 
         <!-- Add more projects here -->
     </section>
