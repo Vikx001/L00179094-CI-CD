@@ -99,3 +99,14 @@ footer {
     text-align: center;
     padding: 1rem 0;
 }
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('CICD-java-Project/webapp/src/main/webapp/WEB-INF/mitchell-luo-FWoq_ldWlNQ-unsplash.jpg '); /* Path to your image */
+    background-size: cover; /* Cover the entire page */
+    background-repeat: no-repeat; /* Prevent image from repeating */
+    background-attachment: fixed; /* Fixed background */
+    background-position: center; /* Center the image */
+}
