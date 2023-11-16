@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="navbar">
-            <h1>xyz</h1>
+            <h1>Vikash Sharma</h1>
             <nav>
                 <ul>
                     <li><a href="#about">About Me</a></li>
