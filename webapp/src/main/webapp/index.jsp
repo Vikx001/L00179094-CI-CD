@@ -23,7 +23,7 @@
 
     <section id="about" class="container">
         <h2>About Me</h2>
-        <p>Hi, I'm xyz, a Full Stack Software Engineer with a passion for development.</p>
+        <p>Hi, I'm Vikash sharma, a Full Stack Software Engineer with a passion for development.</p>
         <!-- Add more about yourself here -->
     </section>
 
