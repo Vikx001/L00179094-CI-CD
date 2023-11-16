@@ -1,3 +1,3 @@
 # Simple Java Project
 
-For Jenkins PIPe line!
+This is a sample java project pushed to check the jenkins CI/CD pipeline
