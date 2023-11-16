@@ -104,9 +104,9 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-image:'webapp/src/main/webapp/WEB-INF/mitchell-luo-FWoq_ldWlNQ-unsplash.jpg'; /* Path to your image */
-    background-size: cover; /* Cover the entire page */
-    background-repeat: no-repeat; /* Prevent image from repeating */
-    background-attachment: fixed; /* Fixed background */
-    background-position: center; /* Center the image */
+    background-image: url('https://pixabay.com/illustrations/big-data-abstract-7644543/');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center; 
 }
