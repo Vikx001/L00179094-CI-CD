@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Chandan Gowda H S - DevOps Engineer.</title>
+    <title>Vikash Sharma - Full sack software Engineer</title>
     <style>
         /* CSS styles go here */
         body, h1, h2, ul, p {
@@ -126,8 +126,8 @@
 <body>
 
     <header>
-        <h1>Chandan Gowda H S</h1>
-        <h2>DevOps Engineer</h2>
+        <h1>Vikash Sharma </h1>
+        <h2>Software Engineer</h2>
     </header>
 
     <nav>
@@ -141,7 +141,7 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Hi, I'm Chandan Gowda, a DevOps engineer with a passion for automating and optimizing development and deployment processes.</p>
+        <p>Hi, I'm Vikash sharma ,Full stack software engineer with a passion for software development .</p>
         <!-- Add more details about yourself here -->
     </section>
 
@@ -149,8 +149,15 @@
         <h2>Skills</h2>
         <ul>
             <li>Continuous Integration and Continuous Deployment (CI/CD)</li>
-            <li>Infrastructure as Code (IaC) with tools like Terraform</li>
-            <li>Containerization with Docker and Kubernetes</li>
+            <li>Full stack software Developement </li>
+            <li>Frontend: ReactJS | jQuery
+                Database: MSSQL
+                Version Control: Git
+                Cloud & Deployment: AWS | CI/CD | Code Pipeline Maintenance
+                Testing: Xunit | Jest | Unit Testing
+                Design Patterns: OOP | Microservices | API Designing
+                Full-Stack Mastery: Backend & Frontend Development
+                Agile Methodologies: Agile | Scrum | Documentation</li>
             <!-- Add more skills here -->
         </ul>
     </section>
@@ -180,14 +187,13 @@
     <section id="contact">
         <h2>Contact</h2>
         <p>Feel free to reach out to me:</p>
-        <p>Email: chandanshankar1999@gmail.com</p>
-        <p>Website: <a href="https://chandanshankar.co/">Portfolio</a></p>
+        <p>Email: vks64491@gmail.com</p>
         <p>Blog: <a href="//www.solutionsforall.info/">Blog Page</a></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/chandan-gowda-h-s-a574431a1/">LinkedIn Profile</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/vikash-sharma-253457214/">LinkedIn Profile</a></p>
     </section>
 
     <footer>
-        <p>&copy; 2023 Chandan Gowda H S</p>
+        <p>&copy; 2023 Vikash sharma</p>
     </footer>
 </body>
 </html>
