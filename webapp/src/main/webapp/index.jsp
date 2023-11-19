@@ -68,7 +68,7 @@
 
     <footer>
         <p>&copy; 2023 Vikash Sharma</p>
-        <h2>Contact</h2>
+        <h2>Contact me</h2>
         <p>Feel free to reach out to me:</p>
         <p>Email: vks64491@gmail.com</p>
         <p>Blog: <a href="//www.solutionsforall.info/">Blog Page</a></p>
