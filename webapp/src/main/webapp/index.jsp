@@ -25,7 +25,7 @@
         <h2>About Me</h2>
         <p>Hi, I'm Vikash sharma, a Full Stack Software Engineer with a passion for development.</p>
         <p>I am pursuing Ms Devops in Computing from ATU Donegal .</p>
-        <!-- Add more about yourself here -->
+        <p>I am interested in DevOps practices and learnings .</p>
     </section>
 
     <section id="skills" class="container">
